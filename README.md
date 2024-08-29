@@ -1,4 +1,4 @@
-• 👋 Oi, eu sou Rodrigo.
+• 👋 Oi, eu sou Rodrigo.<b>
 • 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e Photoshop.
 
 <!---
