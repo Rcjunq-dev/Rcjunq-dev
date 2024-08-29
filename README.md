@@ -1,4 +1,4 @@
-• 👋 Oi, eu sou @Rcjunq-dev
+• 👋 Oi, eu sou @Rcjunq-dev <br>
 • 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e Photoshop
 
 <!---
