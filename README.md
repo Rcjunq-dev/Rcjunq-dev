@@ -1,5 +1,5 @@
-• 👋 Oi, eu sou @Rcjunq-dev <br>
-• 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e Photoshop
+• 👋 Oi, eu sou Rodrigo.
+• 🌱 Atualmente estou aprendendo HTML, CSS, JavaScript e Photoshop.
 
 <!---
 Rcjunq-dev/Rcjunq-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
